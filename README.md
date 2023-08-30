@@ -13,10 +13,29 @@
 
 # Features
 
-* Patient registration and login system.
-* Appointment Scheduling.
-* Health Record Management.
-* Secure storage of user data in the IBM Db2 database.
+### Admin
+  
+- Admin can add doctors,edit doctors, delete doctors    
+- Schedule new doctors sessions,remove sessions   
+- View patients details    
+- View booking of patients    
+ 
+### Doctors
+
+- View their Appointment
+- View their scheduled sessions
+- View details of patients
+- Delete account    
+- Edit account settings
+     
+### Patiens(Clients)
+  
+- Make appointment online
+- Create accounts themslves
+- View their old booking
+- Delete account
+- Edit account settings    
+
 
 # Technologies Used
 
