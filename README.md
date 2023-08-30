@@ -53,7 +53,7 @@
 
 # Deployment
 
-The application is deployed using the RedHat platform. You can access the live version at
+The application is deployed using the IBM Cloud. You can access the live version at
 
 # Future Enhancements
 * Integration with real-time notifications for appointment reminders.
