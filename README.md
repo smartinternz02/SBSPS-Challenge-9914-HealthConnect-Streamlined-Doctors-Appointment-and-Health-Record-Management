@@ -1,6 +1,6 @@
 # HealthConnect: Streamlined Doctors Appointment and Health Record Management
 
-"HealthConnect" is a comprehensive Cloud application designed to revolutionize the way you manage your doctors' appointments and health records. With a user-friendly interface and powerful features, our app aims to streamline healthcare management, ensuring convenient access to medical professionals and organized health records at your fingertips. This project is built using HTML, CSS, and Flask, and it leverages the IBM Db2 database for secure data storage.
+"HealthConnect" is a comprehensive Cloud application designed to revolutionize the way you manage your doctors' appointments and health records. With a user-friendly interface and powerful features, our app aims to streamline healthcare management, ensuring convenient access to medical professionals and organized health records at your fingertips. This project is built using HTML, CSS, and PHP, and it leverages the MySql database for secure data storage.
 
 # Table of Contents
 * [Features](#Features)
