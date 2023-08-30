@@ -39,10 +39,10 @@
 
 # Technologies Used
 
-* HTML and CSS for frontend design and styling.
-* Flask, a micro web framework, for backend development.
-* IBM Db2 as the cloud-based database solution.
-* RedHat for deployment and hosting.
+* HTML and CSS, for frontend design and styling.
+* PHP for back-end.
+* MySql for Database.
+
 
 # Usage
 
