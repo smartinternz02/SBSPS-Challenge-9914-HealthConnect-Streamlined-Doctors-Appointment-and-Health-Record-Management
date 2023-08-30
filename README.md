@@ -46,7 +46,6 @@ Contributions to the project are welcome! If you find any bugs or have suggestio
 
 # Author
 
-1. [Akshat Shrivastava](www.github.com/Akshatshrivastava111)
+1. [Akshat Shrivastava](https://github.com/Akshatshrivastava111)
 2. [Ayush Singh](https://github.com/ayush2883)
 
-3. https://github.com/ayush2883 "Ayush Singh"
