@@ -53,7 +53,7 @@
 
 # Deployment
 
-The application is deployed using the IBM Cloud. You can access the live version at
+The application is deployed using the RedHat Openshift. You can access the live version at [healthconnect](https://health-connect-ayush-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/)
 
 # Future Enhancements
 * Integration with real-time notifications for appointment reminders.
