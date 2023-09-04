@@ -10,7 +10,7 @@
     }else{
         header("location: ../login.php");
     }
-    
+    //ok
     
     if($_GET){
         //import database
